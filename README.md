@@ -11,7 +11,7 @@ This project uses the ML-Agents framework from Unity Technologies.
 ### Installing Pip (Required)
 
 4. Download the `get-pip.py` file using the command `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
-5. Run the following `python3 get-pip.py`
+5. Run the following `py get-pip.py`
 
 ## Set-up
 
