@@ -24,6 +24,12 @@ While being in this path -> `C:\Users\[YOURUSERNAME]\Documents\GitHub\Reinforcem
 
 And press Enter on your keyboard.
 
-3. Install the PIP packages
+If you have problems activating the virtual environment with the previous command, use this first:
+
+`Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
+
+Now you should be able to activate the virtual environment.
+
+3. Install the PIP packages of this repository
 
 `pip3 install -r pyenv/requirements.txt`
