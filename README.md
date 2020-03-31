@@ -16,7 +16,7 @@ This project uses the ML-Agents framework from Unity Technologies.
 ## Set-up
 
 1. Clone this repository to your local machine, you can use GitHub Desktop for this.
-2. Activate the python virtual environment everytime you start developing with ML-Agents.
+2. **Activate the python virtual environment everytime you start developing with ML-Agents**
 
 While being in this path -> `C:\Users\[YOURUSERNAME]\Documents\GitHub\Reinforcement-Learning-Platformer\pyenv>`
 
