@@ -6,7 +6,7 @@ This project uses the ML-Agents framework from Unity Technologies.
 
 1. Install **Python 3.7.7** on your local machine.
 2. Install **Unity 2018.4.20f1 Personal Edition** on your local machine.
-[3. Follow this guide at the *Clone the ML-Agents Toolkit Repository* part ONLY](https://github.com/Unity-Technologies/ml-agents/blob/0.15.0/docs/Installation.md)
+3. [Follow this guide at the *Clone the ML-Agents Toolkit Repository* part ONLY](https://github.com/Unity-Technologies/ml-agents/blob/0.15.0/docs/Installation.md)
 
 ### Installing Pip (Required)
 
